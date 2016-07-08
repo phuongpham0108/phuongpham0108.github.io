@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* header*/
+.topheader {
+	background: #21b7c6;
+}
+
+.logo {
+	padding: 12px;
+	display: inline-block;
+}
+
+.eracle {
+	display: inline-block;
+	background: #eb6841;
+	padding:15px 30px;
+	font-size: 1.5em;
+	color: #fff;
+	border-bottom: 4px solid #ba3a14;
+	border-bottom: 4px solid #cd542f;
+}
+/*menu*/
+
+.navbar-default {
+	background: #00a0b0;
+	border: none;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover {
+	background: none;
+	color: #36d3e1;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+
+/*search*/
+.navbar-form {
+	background: #fff;
+	border-radius: 100px;
+	padding: 0;
+}
+
+.navbar-form input, .navbar-form button {
+	background: none;
+	border: none;
+}
+
+.navbar-form button {
+	color: #b4b4b4b;
+}
+
+
+.navbar-form button:hover {
+	background: none;
+}
+
+/*banner*/
+.banner {
+	margin-top: 30px;
+	border: 10px solid #f0f0f0;
+	border-radius: 10px;
+	background: #f0f0f0;
+}
+
+.banner img {
+	width: 100%;
+	border-radius: 5px;
+	
+}
+
+.
+/*heading-1*/
+.heading-1 h2 {
+	color: #414a5a;
+	margin: 30px 0;
+	font-size: 2em;
+}
+
+/*section-one*/
+.section-one {
+	margin: 30px 0;
+}
+.thumb img {
+	width: 90%;
+	border-radius: 50%;
+	margin: 0 15px;
+}
+
+.info {
+	text-align: center;
+	color: #6e6e6e;
+	font-size: 1em;
+}
+
+/*heading-2*/
+
+/*footer*/
+footer {
+	background: #21b7c6;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	padding: 15px 0;
+}
+
+
+
+
+
+
+
